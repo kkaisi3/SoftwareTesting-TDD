@@ -37,21 +37,28 @@ namespace cs_arrays_strings_lists
         }
         public static bool IsMagicSquare(int[,] intArray)
         {
-            int n = intArray.Length;
-            int magicConstant = (n * (n * n + 1)) / 2;
+            int n = intArray.GetLength(0);
+            int magicConstant = (n * ((n * n) + 1)) / 2;
 
-            for(int i =0; i < n; i++)
+            for(int i = 0; i < n; i++)
             {
-               for(int j = 0; j < n; j++)
-                {
-                    if( intArray[i,j] != magicConstant)
-                    {
-                        return false;
-                    }
-                }   
-                    
-                  
+                int sum = 0;
+                for(int j = 0; j < n; j++) sum += intArray[i, j];
+                if (sum != magicConstant) return false;
+
+                sum = 0;
+                for (int j = 0; j < n; j++) sum += intArray[j, i];
+                if (sum != magicConstant) return false;
+
+                sum = 0;
+                for (int j = 0, k = 0; j < n; j++, k++) sum += intArray[j, k];
+                if (sum != magicConstant) return false;
+
+                sum = 0;
+                for (int j = n - 1, k = 0; j >= 0; j--, k++) sum += intArray[j, k];
+                if (sum != magicConstant) return false;
             }
+            return true;
         }
 
     }

@@ -49,7 +49,6 @@ namespace arrays_strings_lists.nUnitTests
         }
     }
     [TestFixture]
-    [Ignore("Section 4 IsMagicSquare skipped")] //delete this line to run tests for IsMagicSquare
     public class _13_IsMagicSquare
     {
         [Test]
