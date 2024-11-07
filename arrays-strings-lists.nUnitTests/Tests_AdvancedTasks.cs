@@ -8,7 +8,6 @@ using cs_arrays_strings_lists;
 namespace arrays_strings_lists.nUnitTests
 {
     [TestFixture]
-    [Ignore("Section 4 EncodeArray skipped")] //delete this line to run tests for EncodeArray
     public class _11_EncodeArray()
     {
         [Test]
@@ -38,7 +37,6 @@ namespace arrays_strings_lists.nUnitTests
 
     }
     [TestFixture]
-    [Ignore("Section 4 IsRotation skipped")] //delete this line to run tests for IsRotation
     public class _12_IsRotation 
     {
         [Test]

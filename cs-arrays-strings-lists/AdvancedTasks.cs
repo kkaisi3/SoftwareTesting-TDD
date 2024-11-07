@@ -10,11 +10,30 @@ namespace cs_arrays_strings_lists
     {
         public static int[] EncodeArray(int[] intArray)
         {
-            
+            Dictionary<int, int> dict = new();
+            foreach (int num in intArray)
+            {
+                if (!dict.ContainsKey(num))
+                {
+                    dict[num] = 0;
+                }
+                dict[num]++;
+            }
+            int[] ans = new int[dict.Count * 2];
+            int index = 0;
+            foreach (var entry in dict)
+            {
+                ans[index] = entry.Key;
+                index++;
+                ans[index] = entry.Value;
+                index++;
+            }
+            return ans;
         }
         public static bool IsRotation(string string1, string string2)
         {
-            return false; //change code here
+            string concat = string1 + string1;
+            return concat.Contains(string2);
         }
         public static bool IsMagicSquare(int[,] intArray)
         {
