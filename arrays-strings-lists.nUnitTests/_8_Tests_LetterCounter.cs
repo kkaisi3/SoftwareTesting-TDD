@@ -8,7 +8,7 @@ using cs_arrays_strings_lists;
 namespace arrays_strings_lists.nUnitTests
 {
     [TestFixture]
-    [Ignore("LetterCounter skipped")] //delete this line to run tests for LetterCounter
+    
     public class _8_LetterCounter
     {
         [Test]

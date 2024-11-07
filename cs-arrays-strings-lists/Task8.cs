@@ -10,7 +10,14 @@ namespace cs_arrays_strings_lists
     {
         public static int[] LetterCounter(string input)
         {
-            return new int[] { 0 }; //change code here
+            input = input.ToLower();
+            int[] result = new int[26];
+            foreach (char c in input)
+            {
+               int value = c - 'a';
+               result[value]++;
+            }
+            return result;
         }
     }
 }

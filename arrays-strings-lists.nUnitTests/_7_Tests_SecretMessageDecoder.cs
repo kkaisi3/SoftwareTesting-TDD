@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace arrays_strings_lists.nUnitTests
 {
     [TestFixture]
-    [Ignore("SecretMessageDecoder")] //delete this line to run tests for SecretMessageDecoder
+   
     //HINT: If you get stuck, focus on passing one test at a time. Follow the bullet point in the instructions, or look at the description attribute of each test. 
     public class _7_SecretMessageDecoder
     {
