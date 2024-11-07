@@ -10,7 +10,20 @@ namespace cs_arrays_strings_lists
     {
         public static Dictionary<int, int> FrequencyCounting(int[] intsToCount)
         {
-            return new Dictionary<int, int>(); //change code here
+            Dictionary<int, int> freqDict = new Dictionary<int, int>();
+            foreach (int number in intsToCount)
+            {
+                if (freqDict.ContainsKey(number))
+                {
+                    freqDict[number]++;
+                }
+                else
+                {
+                    freqDict[number] = 1;
+                }
+            }
+            return freqDict;
+
         }
     }
 }

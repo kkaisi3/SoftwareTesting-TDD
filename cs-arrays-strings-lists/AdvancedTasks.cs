@@ -10,7 +10,7 @@ namespace cs_arrays_strings_lists
     {
         public static int[] EncodeArray(int[] intArray)
         {
-            return intArray; //change code here
+            
         }
         public static bool IsRotation(string string1, string string2)
         {

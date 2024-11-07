@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace arrays_strings_lists.nUnitTests
 {
     [TestFixture]
-    [Ignore("FrequencyCounting skipped")] //delete this line to run tests for FrequencyCounting
+   
     public class _10_FrequencyCounting
     {
         [Test]
