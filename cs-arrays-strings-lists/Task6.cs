@@ -13,12 +13,20 @@ namespace cs_arrays_strings_lists
             Array.Reverse(words);
             for (int i = 0; i < words.Length; i++)
             {
-                if (words[i] == searchString)
+                if (words[i].Contains(searchString))
                 {
-
+                    StringBuilder sb = new StringBuilder();
+                    foreach (char c in words[i])
+                    {
+                        if (Char.IsUpper(c))
+                        {
+                            sb.Append(Char.ToLower(c));
+                        }
+                    }
                 }
             }
-            return "";
+            Array.Reverse(words);
+            return String.Join(" ", words);
         }
     }
 }
