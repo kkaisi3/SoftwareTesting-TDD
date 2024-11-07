@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v1O8zaz/EbU=",
+  "dgSpecHash": "/1UuSP43veE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\arrays-strings-lists.nUnitTests\\arrays-strings-lists.nUnitTests.csproj",
+  "projectFilePath": "C:\\Users\\Wrigh\\source\\repos\\cs-strings-arrays-sprint\\arrays-strings-lists.nUnitTests\\arrays-strings-lists.nUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wrigh\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Wrigh\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

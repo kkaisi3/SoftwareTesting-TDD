@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj": {}
+    "C:\\Users\\Wrigh\\source\\repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj": {
+    "C:\\Users\\Wrigh\\source\\repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
+        "projectUniqueName": "C:\\Users\\Wrigh\\source\\repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
         "projectName": "cs-arrays-strings-lists",
-        "projectPath": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
+        "projectPath": "C:\\Users\\Wrigh\\source\\repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
         "packagesPath": "C:\\Users\\Wrigh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\obj\\",
+        "outputPath": "C:\\Users\\Wrigh\\source\\repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wrigh\\AppData\\Roaming\\NuGet\\NuGet.Config",

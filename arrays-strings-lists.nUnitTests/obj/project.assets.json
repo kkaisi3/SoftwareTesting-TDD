@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\arrays-strings-lists.nUnitTests\\arrays-strings-lists.nUnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\Wrigh\\source\\repos\\cs-strings-arrays-sprint\\arrays-strings-lists.nUnitTests\\arrays-strings-lists.nUnitTests.csproj",
       "projectName": "arrays-strings-lists.nUnitTests",
-      "projectPath": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\arrays-strings-lists.nUnitTests\\arrays-strings-lists.nUnitTests.csproj",
+      "projectPath": "C:\\Users\\Wrigh\\source\\repos\\cs-strings-arrays-sprint\\arrays-strings-lists.nUnitTests\\arrays-strings-lists.nUnitTests.csproj",
       "packagesPath": "C:\\Users\\Wrigh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\arrays-strings-lists.nUnitTests\\obj\\",
+      "outputPath": "C:\\Users\\Wrigh\\source\\repos\\cs-strings-arrays-sprint\\arrays-strings-lists.nUnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wrigh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1025,8 +1025,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj": {
-              "projectPath": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj"
+            "C:\\Users\\Wrigh\\source\\repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj": {
+              "projectPath": "C:\\Users\\Wrigh\\source\\repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj"
             }
           }
         }
