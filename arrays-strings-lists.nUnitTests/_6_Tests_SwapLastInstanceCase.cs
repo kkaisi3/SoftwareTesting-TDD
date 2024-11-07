@@ -8,7 +8,6 @@ using cs_arrays_strings_lists;
 namespace arrays_strings_lists.nUnitTests
 {
     [TestFixture]
-    [Ignore("Section 3 SwapLastInstanceCase skipped")] //Delete this line to run code for SwapLastInstanceCase
     public class _6_SwapLastInstanceCase
     {
         [Test]

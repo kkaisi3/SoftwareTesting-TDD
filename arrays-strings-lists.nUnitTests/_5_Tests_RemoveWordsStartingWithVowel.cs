@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 namespace arrays_strings_lists.nUnitTests
 {
     [TestFixture]
-    [Ignore("RemoveWordsStartingWithVowel skipped")] //Delete this line to run the tests for RemoveWordsStartingWithVowel
     public class _5_RemoveWordStartingWithVowel
     {
         [Test]
