@@ -15,7 +15,7 @@ namespace cs_arrays_strings_lists
         }
         public static string ShoutString(string stringToShout)
         {
-            return ""; //change code here
+            return stringToShout.ToUpper();
         }
     }
 }

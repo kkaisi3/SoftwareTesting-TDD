@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = cs_arrays_strings_lists
-build_property.ProjectDir = C:\Users\CTutor03\Documents\cs-creation\student-repos\cs-intro\cs-arrays-strings-lists\cs-arrays-strings-lists\
+build_property.ProjectDir = C:\Users\Wrigh\Source\Repos\cs-strings-arrays-sprint\cs-arrays-strings-lists\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

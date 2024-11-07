@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CTutor03\\Documents\\cs-creation\\student-repos\\cs-intro\\cs-arrays-strings-lists\\arrays-strings-lists.nUnitTests\\arrays-strings-lists.nUnitTests.csproj": {}
+    "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\arrays-strings-lists.nUnitTests\\arrays-strings-lists.nUnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CTutor03\\Documents\\cs-creation\\student-repos\\cs-intro\\cs-arrays-strings-lists\\arrays-strings-lists.nUnitTests\\arrays-strings-lists.nUnitTests.csproj": {
+    "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\arrays-strings-lists.nUnitTests\\arrays-strings-lists.nUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CTutor03\\Documents\\cs-creation\\student-repos\\cs-intro\\cs-arrays-strings-lists\\arrays-strings-lists.nUnitTests\\arrays-strings-lists.nUnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\arrays-strings-lists.nUnitTests\\arrays-strings-lists.nUnitTests.csproj",
         "projectName": "arrays-strings-lists.nUnitTests",
-        "projectPath": "C:\\Users\\CTutor03\\Documents\\cs-creation\\student-repos\\cs-intro\\cs-arrays-strings-lists\\arrays-strings-lists.nUnitTests\\arrays-strings-lists.nUnitTests.csproj",
-        "packagesPath": "C:\\Users\\CTutor03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CTutor03\\Documents\\cs-creation\\student-repos\\cs-intro\\cs-arrays-strings-lists\\arrays-strings-lists.nUnitTests\\obj\\",
+        "projectPath": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\arrays-strings-lists.nUnitTests\\arrays-strings-lists.nUnitTests.csproj",
+        "packagesPath": "C:\\Users\\Wrigh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\arrays-strings-lists.nUnitTests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\CTutor03\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Wrigh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\CTutor03\\Documents\\cs-creation\\student-repos\\cs-intro\\cs-arrays-strings-lists\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj": {
-                "projectPath": "C:\\Users\\CTutor03\\Documents\\cs-creation\\student-repos\\cs-intro\\cs-arrays-strings-lists\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj"
+              "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj": {
+                "projectPath": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj"
               }
             }
           }
@@ -91,25 +87,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\CTutor03\\Documents\\cs-creation\\student-repos\\cs-intro\\cs-arrays-strings-lists\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj": {
+    "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CTutor03\\Documents\\cs-creation\\student-repos\\cs-intro\\cs-arrays-strings-lists\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
+        "projectUniqueName": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
         "projectName": "cs-arrays-strings-lists",
-        "projectPath": "C:\\Users\\CTutor03\\Documents\\cs-creation\\student-repos\\cs-intro\\cs-arrays-strings-lists\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
-        "packagesPath": "C:\\Users\\CTutor03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CTutor03\\Documents\\cs-creation\\student-repos\\cs-intro\\cs-arrays-strings-lists\\cs-arrays-strings-lists\\obj\\",
+        "projectPath": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
+        "packagesPath": "C:\\Users\\Wrigh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\CTutor03\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Wrigh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -156,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

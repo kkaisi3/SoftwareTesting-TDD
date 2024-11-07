@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\CTutor03\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Wrigh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CTutor03\\Documents\\cs-creation\\student-repos\\cs-intro\\cs-arrays-strings-lists\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
+      "projectUniqueName": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
       "projectName": "cs-arrays-strings-lists",
-      "projectPath": "C:\\Users\\CTutor03\\Documents\\cs-creation\\student-repos\\cs-intro\\cs-arrays-strings-lists\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
-      "packagesPath": "C:\\Users\\CTutor03\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CTutor03\\Documents\\cs-creation\\student-repos\\cs-intro\\cs-arrays-strings-lists\\cs-arrays-strings-lists\\obj\\",
+      "projectPath": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
+      "packagesPath": "C:\\Users\\Wrigh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wrigh\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\CTutor03\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Wrigh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -72,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
