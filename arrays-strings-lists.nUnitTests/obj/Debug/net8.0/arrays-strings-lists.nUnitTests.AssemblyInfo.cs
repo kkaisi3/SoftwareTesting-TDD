@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arrays-strings-lists.nUnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d86a994d7a38ed863a4a754dd98ae7d5bf483ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45d8dfa0b9653e3c58a1094de291e4183c78a2f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("arrays-strings-lists.nUnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arrays-strings-lists.nUnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -319,7 +319,10 @@
       "System.Reflection.Metadata/1.6.0": {},
       "cs-arrays-strings-lists/1.0.0": {
         "runtime": {
-          "cs-arrays-strings-lists.dll": {}
+          "cs-arrays-strings-lists.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
