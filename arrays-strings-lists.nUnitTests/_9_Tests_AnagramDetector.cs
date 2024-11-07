@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 namespace arrays_strings_lists.nUnitTests
 {
     [TestFixture]
-    [Ignore("AnagramDetector skipped")] //delete this line to run tests for AnagramDetector
     public class _9_AnagramDetector
     {
         [Test]
