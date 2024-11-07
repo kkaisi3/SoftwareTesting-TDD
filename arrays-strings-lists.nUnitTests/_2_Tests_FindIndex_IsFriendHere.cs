@@ -8,7 +8,7 @@ using cs_arrays_strings_lists;
 namespace arrays_strings_lists.nUnitTests
 {
     [TestFixture]
-    [Ignore("FindIndex and IsFriendHere Skipped")] //delete this line of code to run tests for ArraySort and IsFriendHere
+  
     public class _2_Section2_Tests
     {
         [Test]

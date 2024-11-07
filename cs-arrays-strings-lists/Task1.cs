@@ -11,11 +11,12 @@ namespace cs_arrays_strings_lists
     {
         public static int[] ArraySort(int[] arrayToSort)
         {
-            return arrayToSort; //change code here
+            Array.Sort(arrayToSort);
+            return arrayToSort;
         }
         public static string ShoutString(string stringToShout)
         {
-            return ""; //change code here
+            return stringToShout.ToUpper();
         }
     }
 }

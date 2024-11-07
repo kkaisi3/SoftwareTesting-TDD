@@ -10,7 +10,8 @@ namespace cs_arrays_strings_lists
     {
         public static string SlowDownSentence(string stringToSlow)
         {
-            return ""; //change code here
+            string[] parts = stringToSlow.Split();
+            return String.Join("... ", parts) + "... ";
         }
     }
 }

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace arrays_strings_lists.nUnitTests
 {
     [TestFixture]
-    [Ignore("ReturnWordsBetweenParentheses skipped")] //Delete this line to run the tests for ReturnWordsBetweenParentheses
+   
     public class _4_ReturnWordsBetweenParenthesesTests
     {
         [Test]

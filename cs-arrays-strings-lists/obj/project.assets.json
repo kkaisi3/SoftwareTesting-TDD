@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kkais\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
+      "projectUniqueName": "C:\\Users\\kkais\\source\\repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
       "projectName": "cs-arrays-strings-lists",
-      "projectPath": "C:\\Users\\kkais\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
+      "projectPath": "C:\\Users\\kkais\\source\\repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\cs-arrays-strings-lists.csproj",
       "packagesPath": "C:\\Users\\kkais\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kkais\\Source\\Repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\obj\\",
+      "outputPath": "C:\\Users\\kkais\\source\\repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kkais\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,5 +70,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\kkais\\source\\repos\\cs-strings-arrays-sprint\\cs-arrays-strings-lists\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

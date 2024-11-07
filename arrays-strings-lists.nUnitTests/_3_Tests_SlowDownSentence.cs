@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace arrays_strings_lists.nUnitTests
 {
     [TestFixture]
-    [Ignore("SlowDownSentence skipped")] //Delete this line to run the tests for SlowDownSentence
+   
     public class _3_SlowDownSentenceTests
     {
         [Test]
