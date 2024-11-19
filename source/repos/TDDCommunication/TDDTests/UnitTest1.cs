@@ -75,13 +75,18 @@ namespace TDDTests
 
             testAnswer.Should().Be(exprected);
 
-          
-           
-
-            
-
 
         }
+        [Test]
+        [TestCase("northcoders", "abegupbqref")]
+        [TestCase("abegupbqref", "northcoders")]
+        [TestCase("a", "n")]
 
+        public void CeasarTest(string input, string exprected)
+        {
+            CeasarCipher ceasartest = new CeasarCipher();
+            string ceasarcipher = ceasartest.Ceasarstring(input);
+            ceasarcipher.Should().Be(exprected);
+        }
     }
 }
