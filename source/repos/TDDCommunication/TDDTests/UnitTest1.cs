@@ -88,5 +88,25 @@ namespace TDDTests
             string ceasarcipher = ceasartest.Ceasarstring(input);
             ceasarcipher.Should().Be(exprected);
         }
+
+        [Test]
+        [TestCase("---K-----M---C--",6,0,"no Cheese")]
+        [TestCase("---K-----M---C--",0,6,"Cheese")]
+        [TestCase("---K-----M---C--",1,1,"Cheese")]
+        [TestCase("---K-----M---C--",3,1,"no Cheese")]
+        [TestCase("---K---M---C--", 2,1,"Cheese Party")]
+
+    
+
+        public void CheseTest(string raceinput, int catInput, int mouseInput, string expected)
+        {
+            CheeseHunt testCheese = new CheeseHunt();
+
+            string cheeseAns = testCheese.Hunting(raceinput, catInput, mouseInput);
+
+            cheeseAns.Should().Be(expected);
+
+        }
+        
     }
 }
