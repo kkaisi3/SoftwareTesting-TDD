@@ -32,17 +32,17 @@ namespace TDD_Communication
                 mousePos += mouseSpeed;
 
 
-                if(catpos >= cheesepos && mousePos >= cheesepos)
+                if(catpos == cheesepos && mousePos == cheesepos)
                 {
                     return "Cheese Party";
 
                 }
 
-                if(catpos >= mousePos)
+                if(catpos == mousePos)
                 {
                     return "no Cheese";
                 }
-                if (mousePos >= cheesepos)
+                if (mousePos == cheesepos)
                 {
                     return "Cheese";
                 }

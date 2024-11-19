@@ -95,8 +95,13 @@ namespace TDDTests
         [TestCase("---K-----M---C--",1,1,"Cheese")]
         [TestCase("---K-----M---C--",3,1,"no Cheese")]
         [TestCase("---K---M---C--", 2,1,"Cheese Party")]
+        [TestCase("---M-----K---C--", -1, 1, "no Cheese")]
+        [TestCase("---M-----K---C--", 6, 6, "Cheese")]
+      
 
-    
+
+
+
 
         public void CheseTest(string raceinput, int catInput, int mouseInput, string expected)
         {
