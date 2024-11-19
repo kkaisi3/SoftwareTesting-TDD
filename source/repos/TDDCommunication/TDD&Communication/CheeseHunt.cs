@@ -20,7 +20,7 @@ namespace TDD_Communication
 
             //"---K----M---C--"     CatSpeed 6 MouseSpeed 1
 
-
+            int wah = 5;
             int catpos = raceInput.IndexOf('K');
             int mousePos = raceInput.IndexOf('M');
             int cheesepos = raceInput.IndexOf('C');
