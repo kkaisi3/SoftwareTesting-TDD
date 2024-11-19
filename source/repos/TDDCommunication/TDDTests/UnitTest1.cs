@@ -22,7 +22,22 @@ namespace TDDTests
              sumOfNumbers.Should().Be(expected);
         }
 
-       
+        [Test]
+        [TestCase(new double[] {1,2,3}, 2)]
+        [TestCase(new double[] {40,16,5,8}, 17.25)]
+        [TestCase(new double[] {1,0}, 0.5)]
+        [TestCase(new double[] {1}, 1)]
+        [TestCase(new double[] {0}, 0)]
+        public void MeanNumberTest(double[] input, double expected)
+        {
+            SumOfNumbers meanTest = new SumOfNumbers();
+            
+            double meanNums = meanTest.MeanNumber(input);
+
+            meanNums.Should().Be(expected);
+
+
+        }
 
     }
 }

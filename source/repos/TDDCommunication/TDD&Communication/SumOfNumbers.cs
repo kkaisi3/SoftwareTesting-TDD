@@ -19,13 +19,21 @@ namespace TDD_Communication
                 sum += numbers[i];
             }
 
-            return sum;
-
-            
-            
-            
-
-
+            return sum;     
         }
+
+        public double MeanNumber(double[] number) 
+        {
+            double sum = 0;
+            for (int i = 0; i < number.Length; i++)
+            {
+                sum += number[i];
+            }
+            sum = sum / number.Length;
+
+            return sum;
+        
+        }
+
     }
 }
