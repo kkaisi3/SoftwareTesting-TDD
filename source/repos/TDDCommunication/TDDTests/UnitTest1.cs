@@ -39,6 +39,23 @@ namespace TDDTests
 
 
         }
+        [Test]
+        [TestCase("Northcoders", 1163 )]
+        [TestCase("northcoders", 1195)]
+        [TestCase("a", 97)]
+        [TestCase("123", 150)]
+
+        public void addAscii(string input, int expected)
+        {
+            AsciiNums addAsciiTest = new AsciiNums();
+
+            int addedAscii = addAsciiTest.addAscii(input);
+
+            addedAscii.Should().Be(expected);
+
+
+        }
+
 
     }
 }
